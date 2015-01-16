@@ -21,7 +21,7 @@ Try, try and try again.
 
     err := retry.Attempt(fn, 3)
     if err != nil {
-      // handle error or exhausted attemps
+      // handle error or exhausted attempts
     }
 
 ## License

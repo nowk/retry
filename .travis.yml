@@ -1,5 +1,5 @@
 language: go
-go:
+install:
   - go get gopkg.in/nowk/assert.v2
 go:
   - "1.0"
